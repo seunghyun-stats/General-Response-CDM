@@ -1,7 +1,5 @@
 # General-Response-CDM
--
 This repository contains MATLAB codes for the paper "New Paradigm of Identifiable General-response Cognitive Diagnostic Models: Beyond Categorical Data"
--
 
 The ExpDINA folder contains the code for Algorithm 1 in Section 4 (and Algorithm S.1 in the Supplementary Material), as well as the script used for the ExpDINA simulation studies in Section 5. For each parametric family "parfam", 
 - The "generate_X_DINA_parfam" function generates random samples.
