@@ -39,7 +39,7 @@ for j = 1:J
 end
 beta_true(:, 2:end) = beta_part_in;
 
-gamma_true = 1*ones(J, 1);
+gamma_true = 0.5 + 1*ones(J, 1);
 
 % simulate data and fit
 n_sim = 100;
